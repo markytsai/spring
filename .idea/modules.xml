@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aspect/spring-aspect.iml" filepath="$PROJECT_DIR$/spring-aspect/spring-aspect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-codebased/spring-codebased.iml" filepath="$PROJECT_DIR$/spring-codebased/spring-codebased.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ioc/spring-ioc.iml" filepath="$PROJECT_DIR$/spring-ioc/spring-ioc.iml" />
+    </modules>
+  </component>
+</project>

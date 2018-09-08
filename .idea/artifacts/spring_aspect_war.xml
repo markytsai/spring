@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-aspect:war">
+    <output-path>$PROJECT_DIR$/spring-aspect/target</output-path>
+    <root id="archive" name="spring-aspect.war">
+      <element id="artifact" artifact-name="spring-aspect:war exploded" />
+    </root>
+  </artifact>
+</component>
