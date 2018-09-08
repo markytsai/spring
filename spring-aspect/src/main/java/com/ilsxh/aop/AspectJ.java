@@ -24,6 +24,11 @@ public class AspectJ {
     public void after() {
         System.out.println("after");
     }
+
+    @Pointcut("execution(public * * (..))")
+    public void sayHelloPointCut(){
+
+    }
 }
 
 

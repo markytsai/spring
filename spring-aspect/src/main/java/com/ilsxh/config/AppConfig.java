@@ -10,4 +10,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @Configuration
 @ComponentScan(basePackages = "com.ilsxh")
 @EnableAspectJAutoProxy(proxyTargetClass = true)
-public class AppConfig {}
+public class AppConfig {
+
+}
